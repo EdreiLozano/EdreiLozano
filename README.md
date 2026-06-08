@@ -1,9 +1,9 @@
 <h1>Hi, I'm Edrei! <br/><a href="https://github.com/joshmadakor1">QA Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 TripleTen Projects:</h2>
 
 - <b>Sprint 1</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Listas de comprobación](https://github.com/EdreiLozano/Sprint-1)
 - <b>Sprint 2</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Sprint 3</b>
