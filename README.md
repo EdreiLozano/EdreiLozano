@@ -5,7 +5,7 @@
 - <b>Sprint 1</b>
   - [Listas de comprobación](https://github.com/EdreiLozano/Sprint-1)
 - <b>Sprint 2</b>
-  - [...]()
+  - [Clases de Equivalencia y Análisis de Límites]()
 - <b>Sprint 3</b>
   - [...]()
 - <b>Sprint 4</b>
