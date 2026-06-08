@@ -21,10 +21,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Edrei Lozano | LinkedIn" width="22px" src="https://www.linkedin.com/in/edrei-adri%C3%A1n-lozano-l%C3%B3pez/" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/edrei-adri%C3%A1n-lozano-l%C3%B3pez/
-
 <!--
 **EdreiLozano/EdreiLozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
